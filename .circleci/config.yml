@@ -42,8 +42,12 @@ jobs:
       - run:
           name: Push to GitHub
           command: |
-            if [ "git log -1 --pretty=%B" != "run script and deploy build version" ]; then
+            if [ $(git log -1 --pretty=%B") != "run script and deploy build version" ]; then
+              echo "I made it through the first check on this branch"
+              echo "${CIRCLE_BRANCH}"
+              echo "$(git log -1 --pretty=%B")"
               if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                echo "I made it through the second check"
                 git pull origin master
                 git config user.email "${GH_EMAIL}"
                 git config user.name "${GH_NAME}"
@@ -56,9 +60,14 @@ jobs:
 
 workflows:
    version: 2
+
    commit:
      jobs:
        - build-and-deploy
+       filters:
+         branches:
+           only:
+             - master
    nightly:
      triggers:
        - schedule:
