@@ -1,70 +1,42 @@
 {
-  "CGE": {
-    "symbol": "CGE",
-    "companyName": "Concierge Token",
+  "OBT": {
+    "symbol": "OBT",
+    "companyName": "Orbis",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Concierge Token",
-        "hash": "34579e4614ac1a7bd295372d3de8621770c76cdc",
+        "name": "Orbis",
+        "hash": "0e86a40588f715fcaf7acd1812d50af478e6e917",
         "decimals": 8,
-        "totalSupply": 60880894
+        "totalSupply": 68960125.99999999
       }
     },
     "image": ""
   },
-  "ZPT": {
-    "symbol": "ZPT",
-    "companyName": "Zeepin Token",
+  "APH": {
+    "symbol": "APH",
+    "companyName": "Aphelion",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Zeepin Token",
-        "hash": "ac116d4b8d4ca55e6b6d4ecce2192039b51cccc5",
+        "name": "Aphelion",
+        "hash": "a0777c3ce2b169d4a23bcba4565e3225a0122d95",
         "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/png/zpt.png"
-  },
-  "TKY": {
-    "symbol": "TKY",
-    "companyName": "THEKEY Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "THEKEY Token",
-        "hash": "132947096727c84c7f9e076c90f08fec3bc17f18",
-        "decimals": 8,
-        "totalSupply": 9795844687
-      }
-    },
-    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/png/tky.png"
-  },
-  "WWB": {
-    "symbol": "WWB",
-    "companyName": "Wowbit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Wowbit",
-        "hash": "40bb36a54bf28872b6ffdfa7fbc6480900e58448",
-        "decimals": 8,
-        "totalSupply": 0
+        "totalSupply": 242817675
       }
     },
     "image": ""
   },
-  "BCS": {
-    "symbol": "BCS",
-    "companyName": "Block chain store",
+  "RHT": {
+    "symbol": "RHT",
+    "companyName": "Redeemable HashPuppy Token",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Block chain store",
-        "hash": "546c5872a992b2754ef327154f4c119baabff65f",
-        "decimals": 8,
-        "totalSupply": 100000000
+        "name": "Redeemable HashPuppy Token",
+        "hash": "2328008e6f6c7bd157a342e789389eb034d9cbc4",
+        "decimals": 0,
+        "totalSupply": 60000
       }
     },
     "image": ""
@@ -83,30 +55,72 @@
     },
     "image": ""
   },
-  "SWH": {
-    "symbol": "SWH",
-    "companyName": "Switcheo",
+  "DBC": {
+    "symbol": "DBC",
+    "companyName": "DeepBrain Coin",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Switcheo",
-        "hash": "78e6d16b914fe15bc16150aeb11d0c2a8e532bdd",
+        "name": "DeepBrain Coin",
+        "hash": "b951ecbbc5fe37a9c280a76cb0ce0014827294cf",
         "decimals": 8,
-        "totalSupply": 1000000000
+        "totalSupply": 10000000000
+      }
+    },
+    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/svg/dbc.svg"
+  },
+  "TKY": {
+    "symbol": "TKY",
+    "companyName": "THEKEY Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "THEKEY Token",
+        "hash": "132947096727c84c7f9e076c90f08fec3bc17f18",
+        "decimals": 8,
+        "totalSupply": 9795844687
+      }
+    },
+    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/png/tky.png"
+  },
+  "EDS": {
+    "symbol": "EDS",
+    "companyName": "Endorsit Shares",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Endorsit Shares",
+        "hash": "81c089ab996fc89c468a26c0a88d23ae2f34b5c0",
+        "decimals": 8,
+        "totalSupply": 100000000000
       }
     },
     "image": ""
   },
-  "CPX": {
-    "symbol": "CPX",
-    "companyName": "CPX Token",
+  "EXT": {
+    "symbol": "EXT",
+    "companyName": "Experience Token",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "CPX Token",
-        "hash": "45d493a6f73fa5f404244a5fb8472fc014ca5885",
+        "name": "Experience Token",
+        "hash": "e8f98440ad0d7a6e76d84fb1c3d3f8a16e162e97",
         "decimals": 8,
-        "totalSupply": 676989090
+        "totalSupply": 10000000000
+      }
+    },
+    "image": ""
+  },
+  "CGE": {
+    "symbol": "CGE",
+    "companyName": "Concierge Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Concierge Token",
+        "hash": "34579e4614ac1a7bd295372d3de8621770c76cdc",
+        "decimals": 8,
+        "totalSupply": 60880894
       }
     },
     "image": ""
@@ -125,16 +139,72 @@
     },
     "image": ""
   },
-  "EXT": {
-    "symbol": "EXT",
-    "companyName": "Experience Token",
+  "BCS": {
+    "symbol": "BCS",
+    "companyName": "Block chain store",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Experience Token",
-        "hash": "e8f98440ad0d7a6e76d84fb1c3d3f8a16e162e97",
+        "name": "Block chain store",
+        "hash": "546c5872a992b2754ef327154f4c119baabff65f",
         "decimals": 8,
-        "totalSupply": 10000000000
+        "totalSupply": 100000000
+      }
+    },
+    "image": ""
+  },
+  "CPX": {
+    "symbol": "CPX",
+    "companyName": "CPX Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "CPX Token",
+        "hash": "45d493a6f73fa5f404244a5fb8472fc014ca5885",
+        "decimals": 8,
+        "totalSupply": 676989090
+      }
+    },
+    "image": ""
+  },
+  "SWH": {
+    "symbol": "SWH",
+    "companyName": "Switcheo",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Switcheo",
+        "hash": "78e6d16b914fe15bc16150aeb11d0c2a8e532bdd",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": ""
+  },
+  "TNC": {
+    "symbol": "TNC",
+    "companyName": "Trinity Network Credit",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Trinity Network Credit",
+        "hash": "08e8c4400f1af2c20c28e0018f29535eb85d15b6",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/svg/tnc.svg"
+  },
+  "IAM": {
+    "symbol": "IAM",
+    "companyName": "Bridge Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Bridge Token",
+        "hash": "891daf0e1750a1031ebe23030828ad7781d874d6",
+        "decimals": 8,
+        "totalSupply": 708097040
       }
     },
     "image": ""
@@ -167,48 +237,6 @@
     },
     "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/svg/qlc.svg"
   },
-  "APH": {
-    "symbol": "APH",
-    "companyName": "Aphelion",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Aphelion",
-        "hash": "a0777c3ce2b169d4a23bcba4565e3225a0122d95",
-        "decimals": 8,
-        "totalSupply": 242817675
-      }
-    },
-    "image": ""
-  },
-  "OBT": {
-    "symbol": "OBT",
-    "companyName": "Orbis",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Orbis",
-        "hash": "23501e5fef0f67ec476406c556e91992323a0357",
-        "decimals": 8,
-        "totalSupply": 1467921138923311400
-      }
-    },
-    "image": ""
-  },
-  "TNC": {
-    "symbol": "TNC",
-    "companyName": "Trinity Network Credit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Trinity Network Credit",
-        "hash": "08e8c4400f1af2c20c28e0018f29535eb85d15b6",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/svg/tnc.svg"
-  },
   "LRN": {
     "symbol": "LRN",
     "companyName": "Loopring Neo Token",
@@ -223,30 +251,30 @@
     },
     "image": ""
   },
-  "EDS": {
-    "symbol": "EDS",
-    "companyName": "Endorsit Shares",
+  "WWB": {
+    "symbol": "WWB",
+    "companyName": "Wowbit",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Endorsit Shares",
-        "hash": "81c089ab996fc89c468a26c0a88d23ae2f34b5c0",
+        "name": "Wowbit",
+        "hash": "40bb36a54bf28872b6ffdfa7fbc6480900e58448",
         "decimals": 8,
-        "totalSupply": 100000000000
+        "totalSupply": 0
       }
     },
     "image": ""
   },
-  "IAM": {
-    "symbol": "IAM",
-    "companyName": "Bridge Token",
+  "PKC": {
+    "symbol": "PKC",
+    "companyName": "Pikcio Token",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Bridge Token",
-        "hash": "891daf0e1750a1031ebe23030828ad7781d874d6",
+        "name": "Pikcio Token",
+        "hash": "af7c7328eee5a275a3bcaee2bf0cf662b5e739be",
         "decimals": 8,
-        "totalSupply": 708097040
+        "totalSupply": 83927273
       }
     },
     "image": ""
@@ -265,20 +293,6 @@
     },
     "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/png/ont.png"
   },
-  "PKC": {
-    "symbol": "PKC",
-    "companyName": "Pikcio Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Pikcio Token",
-        "hash": "af7c7328eee5a275a3bcaee2bf0cf662b5e739be",
-        "decimals": 8,
-        "totalSupply": 83927273
-      }
-    },
-    "image": ""
-  },
   "GALA": {
     "symbol": "GALA",
     "companyName": "Galaxy Token",
@@ -292,20 +306,6 @@
       }
     },
     "image": ""
-  },
-  "DBC": {
-    "symbol": "DBC",
-    "companyName": "DeepBrain Coin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "DeepBrain Coin",
-        "hash": "b951ecbbc5fe37a9c280a76cb0ce0014827294cf",
-        "decimals": 8,
-        "totalSupply": 10000000000
-      }
-    },
-    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/svg/dbc.svg"
   },
   "NRVE": {
     "symbol": "NRVE",
@@ -321,18 +321,18 @@
     },
     "image": ""
   },
-  "RHT": {
-    "symbol": "RHT",
-    "companyName": "Redeemable HashPuppy Token",
+  "ZPT": {
+    "symbol": "ZPT",
+    "companyName": "Zeepin Token",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Redeemable HashPuppy Token",
-        "hash": "2328008e6f6c7bd157a342e789389eb034d9cbc4",
-        "decimals": 0,
-        "totalSupply": 60000
+        "name": "Zeepin Token",
+        "hash": "ac116d4b8d4ca55e6b6d4ecce2192039b51cccc5",
+        "decimals": 8,
+        "totalSupply": 1000000000
       }
     },
-    "image": ""
+    "image": "https://raw.githubusercontent.com/neonexchange/neo-tokens/master/assets/png/zpt.png"
   }
 }
