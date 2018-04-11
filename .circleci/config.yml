@@ -42,10 +42,10 @@ jobs:
       - run:
           name: Push to GitHub
           command: |
-            if [ $(git log -1 --pretty=%B") != "run script and deploy build version" ]; then
+            echo "$(git log -1 --pretty=%B)"
+            if [ $(git log -1 --pretty=%B) != "run script and deploy build version" ]; then
               echo "I made it through the first check on this branch"
               echo "${CIRCLE_BRANCH}"
-              echo "$(git log -1 --pretty=%B")"
               if [ "${CIRCLE_BRANCH}" == "master" ]; then
                 echo "I made it through the second check"
                 git pull origin master
