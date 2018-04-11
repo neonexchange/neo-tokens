@@ -64,10 +64,7 @@ workflows:
    commit:
      jobs:
        - build-and-deploy
-       filters:
-         branches:
-           only:
-             - master
+
    nightly:
      triggers:
        - schedule:
