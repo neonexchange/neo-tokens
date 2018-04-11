@@ -42,14 +42,16 @@ jobs:
       - run:
           name: Push to GitHub
           command: |
-            echo "this is the branch"
-            echo "${CIRCLE_BRANCH}"
-            git pull origin master
-            git config user.email "${GH_EMAIL}"
-            git config user.name "${GH_NAME}"
-            git add .
-            git commit -m "run script and deploy build version"
-            git push origin "${CIRCLE_BRANCH}"
+            if [ "git log -1 --pretty=%B" != "run script and deploy build version" ]; then
+              if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                git pull origin master
+                git config user.email "${GH_EMAIL}"
+                git config user.name "${GH_NAME}"
+                git add .
+                git commit -m "run script and deploy build version"
+                git push origin master
+              fi
+            fi
             echo "done."
 
 workflows:
