@@ -29,9 +29,7 @@ api.loadBalance(api.getRPCEndpointFrom, { net }).then(endpoint => {
 				return api.nep5.getToken(endpoint, scriptHash).then(tokenInfo => {
 					let image = ''
 					const formattedSymbol = symbol.toLowerCase()
-					if (fs.existsSync(`./assets/svg/${formattedSymbol}.svg`)) {
-						image = `${baseImageUrl}/svg/${formattedSymbol}.svg`
-					} else if (fs.existsSync(`./assets/png/${formattedSymbol}.png`)) {
+					if (fs.existsSync(`./assets/png/${formattedSymbol}.png`)) {
 						image = `${baseImageUrl}/png/${formattedSymbol}.png`
 					}
 					if (!blackList[symbol] && blackList[symbol] !== scriptHash) {
