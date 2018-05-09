@@ -38,7 +38,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run the file!
-      - run: PROJECT_NAME="${CIRCLE_PROJECT_USERNAME}" yarn start
+      - run: ASSETS_BASE_LINK="${ASSETS_BASE_LINK}" yarn start
       - run:
           name: Push to GitHub
           command: |
@@ -88,7 +88,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run the file!
-      - run: PROJECT_NAME="${CIRCLE_PROJECT_USERNAME}" yarn start
+      - run: ASSETS_BASE_LINK="${ASSETS_BASE_LINK}" yarn start
       - run:
           name: Push to GitHub
           command: |
