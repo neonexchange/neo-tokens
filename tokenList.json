@@ -1,4 +1,74 @@
 {
+  "GTA": {
+    "symbol": "GTA",
+    "companyName": "GagaPay network token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "GagaPay network token",
+        "hash": "06f4b1235f6300477d56b9a1f1de5b0172dfe103",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": ""
+  },
+  "SENNO": {
+    "symbol": "SENNO",
+    "companyName": "The Senno Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "The Senno Token",
+        "hash": "d3526b437d65f8c12c902e14320abd440ad1f726",
+        "decimals": 8,
+        "totalSupply": 10000000000
+      }
+    },
+    "image": ""
+  },
+  "AVA": {
+    "symbol": "AVA",
+    "companyName": "Travala",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Travala",
+        "hash": "de2ed49b691e76754c20fe619d891b78ef58e537",
+        "decimals": 8,
+        "totalSupply": 61571086
+      }
+    },
+    "image": ""
+  },
+  "WWB": {
+    "symbol": "WWB",
+    "companyName": "Wowbit",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Wowbit",
+        "hash": "40bb36a54bf28872b6ffdfa7fbc6480900e58448",
+        "decimals": 8,
+        "totalSupply": 0
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/wwb.png"
+  },
+  "SDS": {
+    "symbol": "SDS",
+    "companyName": "Standards",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Standards",
+        "hash": "6fad54d8cc692fc808fd97a207836a846c217705",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": ""
+  },
   "OBT": {
     "symbol": "OBT",
     "companyName": "Orbis",
@@ -13,6 +83,62 @@
     },
     "image": "https://tokens.neonexchange.org/assets/png/obt.png"
   },
+  "LX": {
+    "symbol": "LX",
+    "companyName": "Moonlight Lux",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Moonlight Lux",
+        "hash": "bb3b54ab244b3658155f2db4429fc38ac4cef625",
+        "decimals": 8,
+        "totalSupply": 808257693.386336
+      }
+    },
+    "image": ""
+  },
+  "COUP": {
+    "symbol": "COUP",
+    "companyName": "Coupit",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Coupit",
+        "hash": "87d6c2ae68d6a6f411eb72232e75133b2ffc7142",
+        "decimals": 8,
+        "totalSupply": 728669541.3806896
+      }
+    },
+    "image": ""
+  },
+  "TOLL": {
+    "symbol": "TOLL",
+    "companyName": "Bridge Protocol",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Bridge Protocol",
+        "hash": "78fd589f7894bf9642b4a573ec0e6957dfd84c48",
+        "decimals": 8,
+        "totalSupply": 708097040
+      }
+    },
+    "image": ""
+  },
+  "EPN": {
+    "symbol": "EPN",
+    "companyName": "Epiphany",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Epiphany",
+        "hash": "a79cb7b4e85c8b23940d47bb3ddef76a5f13e449",
+        "decimals": 8,
+        "totalSupply": 500000000
+      }
+    },
+    "image": ""
+  },
   "TKY": {
     "symbol": "TKY",
     "companyName": "THEKEY Token",
@@ -26,6 +152,76 @@
       }
     },
     "image": "https://tokens.neonexchange.org/assets/png/tky.png"
+  },
+  "BCS": {
+    "symbol": "BCS",
+    "companyName": "Block chain store",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Block chain store",
+        "hash": "546c5872a992b2754ef327154f4c119baabff65f",
+        "decimals": 8,
+        "totalSupply": 100000000
+      }
+    },
+    "image": ""
+  },
+  "SCC": {
+    "symbol": "SCC",
+    "companyName": "Stem Cell Coin",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Stem Cell Coin",
+        "hash": "323571cfc42a40d48d64832a7da594039fbac76a",
+        "decimals": 8,
+        "totalSupply": 5000000000
+      }
+    },
+    "image": ""
+  },
+  "\u0000": {
+    "symbol": "\u0000",
+    "companyName": "\u0000",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "\u0000",
+        "hash": "6e2aea28af9c5febea0774759b1b76398e3167f1",
+        "decimals": 0,
+        "totalSupply": 0
+      }
+    },
+    "image": ""
+  },
+  "ACAT": {
+    "symbol": "ACAT",
+    "companyName": "ACAT Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "ACAT Token",
+        "hash": "7f86d61ff377f1b12e589a5907152b57e2ad9a7a",
+        "decimals": 8,
+        "totalSupply": 6250000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/acat.png"
+  },
+  "PROQ": {
+    "symbol": "PROQ",
+    "companyName": "Quarteria Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Quarteria Token",
+        "hash": "2199c8dd506f73afddcbd6146c6271626931f735",
+        "decimals": 8,
+        "totalSupply": 31194111.2061393
+      }
+    },
+    "image": ""
   },
   "NEX": {
     "symbol": "NEX",
@@ -55,19 +251,61 @@
     },
     "image": ""
   },
-  "\u0000": {
-    "symbol": "\u0000",
-    "companyName": "\u0000",
+  "SDT": {
+    "symbol": "SDT",
+    "companyName": "Special Drawing Token",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "\u0000",
-        "hash": "6e2aea28af9c5febea0774759b1b76398e3167f1",
-        "decimals": 0,
-        "totalSupply": 0
+        "name": "Special Drawing Token",
+        "hash": "a4f408df2a1ec2a950ec5fd06d7b9dc5f83b9e73",
+        "decimals": 8,
+        "totalSupply": 1000000000
       }
     },
     "image": ""
+  },
+  "EDS": {
+    "symbol": "EDS",
+    "companyName": "Endorsit Shares",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Endorsit Shares",
+        "hash": "81c089ab996fc89c468a26c0a88d23ae2f34b5c0",
+        "decimals": 8,
+        "totalSupply": 100000000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/eds.png"
+  },
+  "CNEO": {
+    "symbol": "CNEO",
+    "companyName": "NEP5 NEO",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "NEP5 NEO",
+        "hash": "c074a05e9dcf0141cbe6b4b3475dd67baf4dcb60",
+        "decimals": 8,
+        "totalSupply": 14
+      }
+    },
+    "image": ""
+  },
+  "LRN": {
+    "symbol": "LRN",
+    "companyName": "Loopring Neo Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Loopring Neo Token",
+        "hash": "06fa8be9b6609d963e8fc63977b9f8dc5f10895f",
+        "decimals": 8,
+        "totalSupply": 139507605
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/lrn.png"
   },
   "FTW": {
     "symbol": "FTW",
@@ -83,30 +321,100 @@
     },
     "image": ""
   },
-  "CGAS": {
-    "symbol": "CGAS",
-    "companyName": "NEP5 GAS",
+  "CPX": {
+    "symbol": "CPX",
+    "companyName": "CPX Token",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "NEP5 GAS",
-        "hash": "74f2dc36a68fdc4682034178eb2220729231db76",
+        "name": "CPX Token",
+        "hash": "45d493a6f73fa5f404244a5fb8472fc014ca5885",
         "decimals": 8,
-        "totalSupply": 25087.57345549
+        "totalSupply": 676989090
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/cpx.png"
+  },
+  "TNC": {
+    "symbol": "TNC",
+    "companyName": "Trinity Network Credit",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Trinity Network Credit",
+        "hash": "08e8c4400f1af2c20c28e0018f29535eb85d15b6",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/tnc.png"
+  },
+  "EXT": {
+    "symbol": "EXT",
+    "companyName": "Experience Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Experience Token",
+        "hash": "e8f98440ad0d7a6e76d84fb1c3d3f8a16e162e97",
+        "decimals": 8,
+        "totalSupply": 10000000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/ext.png"
+  },
+  "ONT": {
+    "symbol": "ONT",
+    "companyName": "Ontology Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Ontology Token",
+        "hash": "ceab719b8baa2310f232ee0d277c061704541cfb",
+        "decimals": 8,
+        "totalSupply": 1000000000.0000135
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/ont.png"
+  },
+  "NNC": {
+    "symbol": "NNC",
+    "companyName": "NEO Name Credit",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "NEO Name Credit",
+        "hash": "fc732edee1efdf968c23c20a9628eaa5a6ccb934",
+        "decimals": 2,
+        "totalSupply": 1000000000
       }
     },
     "image": ""
   },
-  "EPN": {
-    "symbol": "EPN",
-    "companyName": "Epiphany",
+  "NKN": {
+    "symbol": "NKN",
+    "companyName": "NKN",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "Epiphany",
-        "hash": "a79cb7b4e85c8b23940d47bb3ddef76a5f13e449",
+        "name": "NKN",
+        "hash": "c36aee199dbba6c3f439983657558cfb67629599",
         "decimals": 8,
-        "totalSupply": 500000000
+        "totalSupply": 1000000000
+      }
+    },
+    "image": ""
+  },
+  "ASA": {
+    "symbol": "ASA",
+    "companyName": "Asura World Coin",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Asura World Coin",
+        "hash": "a58b56b30425d3d1f8902034996fcac4168ef71d",
+        "decimals": 8,
+        "totalSupply": 342015750
       }
     },
     "image": ""
@@ -118,37 +426,9 @@
     "networks": {
       "1": {
         "name": "Phantasma",
-        "hash": "ed07cffad18f1308db51920d99a2af60ac66a7b3",
+        "hash": "4b4f63919b9ecfd2483f0c72ff46ed31b5bbb7a4",
         "decimals": 8,
-        "totalSupply": 91136374
-      }
-    },
-    "image": ""
-  },
-  "TOLL": {
-    "symbol": "TOLL",
-    "companyName": "Bridge Protocol",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Bridge Protocol",
-        "hash": "78fd589f7894bf9642b4a573ec0e6957dfd84c48",
-        "decimals": 8,
-        "totalSupply": 708097040
-      }
-    },
-    "image": ""
-  },
-  "MCT": {
-    "symbol": "MCT",
-    "companyName": "Master Contract Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Master Contract Token",
-        "hash": "a87cc2a513f5d8b4a42432343687c2127c60bc3f",
-        "decimals": 8,
-        "totalSupply": 580000000
+        "totalSupply": 91137875
       }
     },
     "image": ""
@@ -181,118 +461,6 @@
     },
     "image": ""
   },
-  "ASA": {
-    "symbol": "ASA",
-    "companyName": "Asura World Coin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Asura World Coin",
-        "hash": "a58b56b30425d3d1f8902034996fcac4168ef71d",
-        "decimals": 8,
-        "totalSupply": 342015750
-      }
-    },
-    "image": ""
-  },
-  "XQTA": {
-    "symbol": "XQTA",
-    "companyName": "Quarteria Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Quarteria Token",
-        "hash": "6eca2c4bd2b3ed97b2aa41b26128a40ce2bd8d1a",
-        "decimals": 8,
-        "totalSupply": 31178784.7077895
-      }
-    },
-    "image": ""
-  },
-  "GALA": {
-    "symbol": "GALA",
-    "companyName": "Galaxy Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Galaxy Token",
-        "hash": "9577c3f972d769220d69d1c4ddbd617c44d067aa",
-        "decimals": 8,
-        "totalSupply": 100000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/gala.png"
-  },
-  "SENNO": {
-    "symbol": "SENNO",
-    "companyName": "The Senno Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "The Senno Token",
-        "hash": "d3526b437d65f8c12c902e14320abd440ad1f726",
-        "decimals": 8,
-        "totalSupply": 10000000000
-      }
-    },
-    "image": ""
-  },
-  "BCS": {
-    "symbol": "BCS",
-    "companyName": "Block chain store",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Block chain store",
-        "hash": "546c5872a992b2754ef327154f4c119baabff65f",
-        "decimals": 8,
-        "totalSupply": 100000000
-      }
-    },
-    "image": ""
-  },
-  "MRG": {
-    "symbol": "MRG",
-    "companyName": "merge",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "merge",
-        "hash": "5a3973149608ddbc9b509fc951b3ff2c47419774",
-        "decimals": 8,
-        "totalSupply": 2000000000
-      }
-    },
-    "image": ""
-  },
-  "SCC": {
-    "symbol": "SCC",
-    "companyName": "Stem Cell Coin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Stem Cell Coin",
-        "hash": "323571cfc42a40d48d64832a7da594039fbac76a",
-        "decimals": 8,
-        "totalSupply": 5000000000
-      }
-    },
-    "image": ""
-  },
-  "LRN": {
-    "symbol": "LRN",
-    "companyName": "Loopring Neo Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Loopring Neo Token",
-        "hash": "06fa8be9b6609d963e8fc63977b9f8dc5f10895f",
-        "decimals": 8,
-        "totalSupply": 139507605
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/lrn.png"
-  },
   "APH": {
     "symbol": "APH",
     "companyName": "Aphelion",
@@ -306,62 +474,6 @@
       }
     },
     "image": "https://tokens.neonexchange.org/assets/png/aph.png"
-  },
-  "TNC": {
-    "symbol": "TNC",
-    "companyName": "Trinity Network Credit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Trinity Network Credit",
-        "hash": "08e8c4400f1af2c20c28e0018f29535eb85d15b6",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/tnc.png"
-  },
-  "CPX": {
-    "symbol": "CPX",
-    "companyName": "CPX Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "CPX Token",
-        "hash": "45d493a6f73fa5f404244a5fb8472fc014ca5885",
-        "decimals": 8,
-        "totalSupply": 676989090
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/cpx.png"
-  },
-  "SPOT": {
-    "symbol": "SPOT",
-    "companyName": "Spotcoin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Spotcoin",
-        "hash": "2830fc346b1c7a350914fbaea5ef7b3fbe3c994c",
-        "decimals": 8,
-        "totalSupply": 97807005
-      }
-    },
-    "image": ""
-  },
-  "EXT": {
-    "symbol": "EXT",
-    "companyName": "Experience Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Experience Token",
-        "hash": "e8f98440ad0d7a6e76d84fb1c3d3f8a16e162e97",
-        "decimals": 8,
-        "totalSupply": 10000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/ext.png"
   },
   "DAD": {
     "symbol": "DAD",
@@ -377,314 +489,6 @@
     },
     "image": ""
   },
-  "EDS": {
-    "symbol": "EDS",
-    "companyName": "Endorsit Shares",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Endorsit Shares",
-        "hash": "81c089ab996fc89c468a26c0a88d23ae2f34b5c0",
-        "decimals": 8,
-        "totalSupply": 100000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/eds.png"
-  },
-  "NOS": {
-    "symbol": "NOS",
-    "companyName": "nOS",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "nOS",
-        "hash": "c9c0fc5a2b66a29d6b14601e752e6e1a445e088d",
-        "decimals": 8,
-        "totalSupply": 299625982
-      }
-    },
-    "image": ""
-  },
-  "WWB": {
-    "symbol": "WWB",
-    "companyName": "Wowbit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Wowbit",
-        "hash": "40bb36a54bf28872b6ffdfa7fbc6480900e58448",
-        "decimals": 8,
-        "totalSupply": 0
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/wwb.png"
-  },
-  "ZPT": {
-    "symbol": "ZPT",
-    "companyName": "Zeepin Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Zeepin Token",
-        "hash": "ac116d4b8d4ca55e6b6d4ecce2192039b51cccc5",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/zpt.png"
-  },
-  "SDT": {
-    "symbol": "SDT",
-    "companyName": "Special Drawing Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Special Drawing Token",
-        "hash": "a4f408df2a1ec2a950ec5fd06d7b9dc5f83b9e73",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": ""
-  },
-  "NRVE": {
-    "symbol": "NRVE",
-    "companyName": "Narrative Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Narrative Token",
-        "hash": "a721d5893480260bd28ca1f395f2c465d0b5b1c2",
-        "decimals": 8,
-        "totalSupply": 46928004
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/nrve.png"
-  },
-  "COUP": {
-    "symbol": "COUP",
-    "companyName": "Coupit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Coupit",
-        "hash": "87d6c2ae68d6a6f411eb72232e75133b2ffc7142",
-        "decimals": 8,
-        "totalSupply": 728669541.3806896
-      }
-    },
-    "image": ""
-  },
-  "UTD": {
-    "symbol": "UTD",
-    "companyName": "AIRDROP UNITED",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "AIRDROP UNITED",
-        "hash": "8399031038683d2867fbe1ba06fb26965ccd1de0",
-        "decimals": 8,
-        "totalSupply": 8e-7
-      }
-    },
-    "image": ""
-  },
-  "YEZ": {
-    "symbol": "YEZ",
-    "companyName": "Yezcoin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Yezcoin",
-        "hash": "b0036a6e8cf172146c7e71a3b53912556d5788e3",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": ""
-  },
-  "QLC": {
-    "symbol": "QLC",
-    "companyName": "Qlink Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Qlink Token",
-        "hash": "0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5",
-        "decimals": 8,
-        "totalSupply": 600000003
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/qlc.png"
-  },
-  "THOR": {
-    "symbol": "THOR",
-    "companyName": "Thor Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Thor Token",
-        "hash": "67a5086bac196b67d5fd20745b0dc9db4d2930ed",
-        "decimals": 8,
-        "totalSupply": 57069223.82227148
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/thor.png"
-  },
-  "CNEO": {
-    "symbol": "CNEO",
-    "companyName": "NEP5 NEO",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "NEP5 NEO",
-        "hash": "c074a05e9dcf0141cbe6b4b3475dd67baf4dcb60",
-        "decimals": 8,
-        "totalSupply": 12
-      }
-    },
-    "image": ""
-  },
-  "RPX": {
-    "symbol": "RPX",
-    "companyName": "Red Pulse Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Red Pulse Token",
-        "hash": "ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9",
-        "decimals": 8,
-        "totalSupply": 1358371250
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/rpx.png"
-  },
-  "NVL": {
-    "symbol": "NVL",
-    "companyName": "Nevula Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Nevula Token",
-        "hash": "6c5fa71d1cfb37eb579458af8accd3128e6b1fca",
-        "decimals": 4,
-        "totalSupply": 20960002400
-      }
-    },
-    "image": ""
-  },
-  "ONT": {
-    "symbol": "ONT",
-    "companyName": "Ontology Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Ontology Token",
-        "hash": "442e7964f6486005235e87e082f56cd52aa663b8",
-        "decimals": 8,
-        "totalSupply": 10000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/ont.png"
-  },
-  "FTX": {
-    "symbol": "FTX",
-    "companyName": "For The Win X",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "For The Win X",
-        "hash": "aac66f9779ca67d819d05492805d251dab02fc7b",
-        "decimals": 8,
-        "totalSupply": 50000000
-      }
-    },
-    "image": ""
-  },
-  "WANDN": {
-    "symbol": "WANDN",
-    "companyName": "WAND NEO",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "WAND NEO",
-        "hash": "7703bf394b5f884ebf57b9c6d22f106035e2c029",
-        "decimals": 8,
-        "totalSupply": 100000000
-      }
-    },
-    "image": ""
-  },
-  "XQT": {
-    "symbol": "XQT",
-    "companyName": "Quarteria Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Quarteria Token",
-        "hash": "7ac4a2bb052a047506f2f2d3d1528b89cc38e8d4",
-        "decimals": 8,
-        "totalSupply": 30977653
-      }
-    },
-    "image": ""
-  },
-  "GTA": {
-    "symbol": "GTA",
-    "companyName": "GagaPay network token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "GagaPay network token",
-        "hash": "06f4b1235f6300477d56b9a1f1de5b0172dfe103",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": ""
-  },
-  "SDS": {
-    "symbol": "SDS",
-    "companyName": "Standards",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Standards",
-        "hash": "6fad54d8cc692fc808fd97a207836a846c217705",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": ""
-  },
-  "ACAT": {
-    "symbol": "ACAT",
-    "companyName": "ACAT Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "ACAT Token",
-        "hash": "7f86d61ff377f1b12e589a5907152b57e2ad9a7a",
-        "decimals": 8,
-        "totalSupply": 6250000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/acat.png"
-  },
-  "EFX": {
-    "symbol": "EFX",
-    "companyName": "Effect.AI Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Effect.AI Token",
-        "hash": "acbc532904b6b51b5ea6d19b803d78af70e7e6f9",
-        "decimals": 8,
-        "totalSupply": 650000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/efx.png"
-  },
   "SGAS": {
     "symbol": "SGAS",
     "companyName": "NEP5.5 Coin With GAS 1:1",
@@ -695,216 +499,6 @@
         "hash": "961e628cc93d61bf636dc0443cf0548947a50dbe",
         "decimals": 8,
         "totalSupply": 991.01924607
-      }
-    },
-    "image": ""
-  },
-  "WHT": {
-    "symbol": "WHT",
-    "companyName": "World Hideout Coin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "World Hideout Coin",
-        "hash": "25bd2b29636fed5945d26e1d03d279e1d9259320",
-        "decimals": 8,
-        "totalSupply": 10500000000
-      }
-    },
-    "image": ""
-  },
-  "GUARD": {
-    "symbol": "GUARD",
-    "companyName": "Guardium GUARD",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Guardium GUARD",
-        "hash": "591f92493cd6dd003470e41376f79a515abc707f",
-        "decimals": 8,
-        "totalSupply": 80803317
-      }
-    },
-    "image": ""
-  },
-  "IAM": {
-    "symbol": "IAM",
-    "companyName": "Bridge Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Bridge Token",
-        "hash": "891daf0e1750a1031ebe23030828ad7781d874d6",
-        "decimals": 8,
-        "totalSupply": 708097040
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/iam.png"
-  },
-  "RHT": {
-    "symbol": "RHT",
-    "companyName": "Redeemable HashPuppy Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Redeemable HashPuppy Token",
-        "hash": "2328008e6f6c7bd157a342e789389eb034d9cbc4",
-        "decimals": 0,
-        "totalSupply": 60000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/rht.png"
-  },
-  "SWH": {
-    "symbol": "SWH",
-    "companyName": "Switcheo",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Switcheo",
-        "hash": "78e6d16b914fe15bc16150aeb11d0c2a8e532bdd",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/swh.png"
-  },
-  "AVA": {
-    "symbol": "AVA",
-    "companyName": "Travala",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Travala",
-        "hash": "de2ed49b691e76754c20fe619d891b78ef58e537",
-        "decimals": 8,
-        "totalSupply": 61571086
-      }
-    },
-    "image": ""
-  },
-  "MRW": {
-    "symbol": "MRW",
-    "companyName": "MirrorRoid World Coin",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "MirrorRoid World Coin",
-        "hash": "02f5f3c6e6bd07c8ff07ad779bb4f7bf9dc735e3",
-        "decimals": 8,
-        "totalSupply": 7500000000
-      }
-    },
-    "image": ""
-  },
-  "NKN": {
-    "symbol": "NKN",
-    "companyName": "NKN",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "NKN",
-        "hash": "c36aee199dbba6c3f439983657558cfb67629599",
-        "decimals": 8,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": ""
-  },
-  "LX": {
-    "symbol": "LX",
-    "companyName": "Moonlight Lux",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Moonlight Lux",
-        "hash": "bb3b54ab244b3658155f2db4429fc38ac4cef625",
-        "decimals": 8,
-        "totalSupply": 808257693.386336
-      }
-    },
-    "image": ""
-  },
-  "CGE": {
-    "symbol": "CGE",
-    "companyName": "Concierge Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Concierge Token",
-        "hash": "34579e4614ac1a7bd295372d3de8621770c76cdc",
-        "decimals": 8,
-        "totalSupply": 61571086
-      }
-    },
-    "image": "https://tokens.neonexchange.org/assets/png/cge.png"
-  },
-  "RCPT": {
-    "symbol": "RCPT",
-    "companyName": "Recoupit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Recoupit",
-        "hash": "0dc27e3977160128c0dd6077a4b5a8b088eed151",
-        "decimals": 8,
-        "totalSupply": 201
-      }
-    },
-    "image": ""
-  },
-  "NNC": {
-    "symbol": "NNC",
-    "companyName": "NEO Name Credit",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "NEO Name Credit",
-        "hash": "fc732edee1efdf968c23c20a9628eaa5a6ccb934",
-        "decimals": 2,
-        "totalSupply": 1000000000
-      }
-    },
-    "image": ""
-  },
-  "PROQ": {
-    "symbol": "PROQ",
-    "companyName": "Quarteria Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Quarteria Token",
-        "hash": "2199c8dd506f73afddcbd6146c6271626931f735",
-        "decimals": 8,
-        "totalSupply": 31194111.2061393
-      }
-    },
-    "image": ""
-  },
-  "PHX": {
-    "symbol": "PHX",
-    "companyName": "Red Pulse Phoenix Token",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "Red Pulse Phoenix Token",
-        "hash": "1578103c13e39df15d0d29826d957e85d770d8c9",
-        "decimals": 8,
-        "totalSupply": 1391399060.8306522
-      }
-    },
-    "image": ""
-  },
-  "CGL": {
-    "symbol": "CGL",
-    "companyName": "CrazyGladiator",
-    "type": "NEP5",
-    "networks": {
-      "1": {
-        "name": "CrazyGladiator",
-        "hash": "cbbe4c3c0d2a3622e9e8d65fe9f6240078f356c9",
-        "decimals": 0,
-        "totalSupply": 7267
       }
     },
     "image": ""
@@ -923,19 +517,271 @@
     },
     "image": "https://tokens.neonexchange.org/assets/png/dbc.png"
   },
-  "TMN": {
-    "symbol": "TMN",
-    "companyName": "TranslateMe Network Token",
+  "UTD": {
+    "symbol": "UTD",
+    "companyName": "AIRDROP UNITED",
     "type": "NEP5",
     "networks": {
       "1": {
-        "name": "TranslateMe Network Token",
-        "hash": "d613223fa138a1555ff711581982462acde209c5",
+        "name": "AIRDROP UNITED",
+        "hash": "8399031038683d2867fbe1ba06fb26965ccd1de0",
         "decimals": 8,
-        "totalSupply": 100000000
+        "totalSupply": 8e-7
       }
     },
     "image": ""
+  },
+  "GUARD": {
+    "symbol": "GUARD",
+    "companyName": "Guardium GUARD",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Guardium GUARD",
+        "hash": "591f92493cd6dd003470e41376f79a515abc707f",
+        "decimals": 8,
+        "totalSupply": 80803317
+      }
+    },
+    "image": ""
+  },
+  "SPOT": {
+    "symbol": "SPOT",
+    "companyName": "Spotcoin",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Spotcoin",
+        "hash": "2830fc346b1c7a350914fbaea5ef7b3fbe3c994c",
+        "decimals": 8,
+        "totalSupply": 97807005
+      }
+    },
+    "image": ""
+  },
+  "RPX": {
+    "symbol": "RPX",
+    "companyName": "Red Pulse Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Red Pulse Token",
+        "hash": "ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9",
+        "decimals": 8,
+        "totalSupply": 1358371250
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/rpx.png"
+  },
+  "THOR": {
+    "symbol": "THOR",
+    "companyName": "Thor Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Thor Token",
+        "hash": "67a5086bac196b67d5fd20745b0dc9db4d2930ed",
+        "decimals": 8,
+        "totalSupply": 57069223.82227148
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/thor.png"
+  },
+  "SWH": {
+    "symbol": "SWH",
+    "companyName": "Switcheo",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Switcheo",
+        "hash": "78e6d16b914fe15bc16150aeb11d0c2a8e532bdd",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/swh.png"
+  },
+  "PHX": {
+    "symbol": "PHX",
+    "companyName": "Red Pulse Phoenix Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Red Pulse Phoenix Token",
+        "hash": "1578103c13e39df15d0d29826d957e85d770d8c9",
+        "decimals": 8,
+        "totalSupply": 1391399060.8306522
+      }
+    },
+    "image": ""
+  },
+  "FTX": {
+    "symbol": "FTX",
+    "companyName": "For The Win X",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "For The Win X",
+        "hash": "aac66f9779ca67d819d05492805d251dab02fc7b",
+        "decimals": 8,
+        "totalSupply": 50000000
+      }
+    },
+    "image": ""
+  },
+  "CGE": {
+    "symbol": "CGE",
+    "companyName": "Concierge Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Concierge Token",
+        "hash": "34579e4614ac1a7bd295372d3de8621770c76cdc",
+        "decimals": 8,
+        "totalSupply": 61571086
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/cge.png"
+  },
+  "CGAS": {
+    "symbol": "CGAS",
+    "companyName": "NEP5 GAS",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "NEP5 GAS",
+        "hash": "74f2dc36a68fdc4682034178eb2220729231db76",
+        "decimals": 8,
+        "totalSupply": 25072.61594421
+      }
+    },
+    "image": ""
+  },
+  "MCT": {
+    "symbol": "MCT",
+    "companyName": "Master Contract Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Master Contract Token",
+        "hash": "a87cc2a513f5d8b4a42432343687c2127c60bc3f",
+        "decimals": 8,
+        "totalSupply": 580000000
+      }
+    },
+    "image": ""
+  },
+  "GALA": {
+    "symbol": "GALA",
+    "companyName": "Galaxy Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Galaxy Token",
+        "hash": "9577c3f972d769220d69d1c4ddbd617c44d067aa",
+        "decimals": 8,
+        "totalSupply": 100000000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/gala.png"
+  },
+  "CGL": {
+    "symbol": "CGL",
+    "companyName": "CrazyGladiator",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "CrazyGladiator",
+        "hash": "cbbe4c3c0d2a3622e9e8d65fe9f6240078f356c9",
+        "decimals": 0,
+        "totalSupply": 7267
+      }
+    },
+    "image": ""
+  },
+  "QLC": {
+    "symbol": "QLC",
+    "companyName": "Qlink Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Qlink Token",
+        "hash": "0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5",
+        "decimals": 8,
+        "totalSupply": 600000003
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/qlc.png"
+  },
+  "YEZ": {
+    "symbol": "YEZ",
+    "companyName": "Yezcoin",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Yezcoin",
+        "hash": "b0036a6e8cf172146c7e71a3b53912556d5788e3",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": ""
+  },
+  "ZPT": {
+    "symbol": "ZPT",
+    "companyName": "Zeepin Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Zeepin Token",
+        "hash": "ac116d4b8d4ca55e6b6d4ecce2192039b51cccc5",
+        "decimals": 8,
+        "totalSupply": 1000000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/zpt.png"
+  },
+  "RHT": {
+    "symbol": "RHT",
+    "companyName": "Redeemable HashPuppy Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Redeemable HashPuppy Token",
+        "hash": "2328008e6f6c7bd157a342e789389eb034d9cbc4",
+        "decimals": 0,
+        "totalSupply": 60000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/rht.png"
+  },
+  "NRVE": {
+    "symbol": "NRVE",
+    "companyName": "Narrative Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Narrative Token",
+        "hash": "a721d5893480260bd28ca1f395f2c465d0b5b1c2",
+        "decimals": 8,
+        "totalSupply": 46928004
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/nrve.png"
+  },
+  "EFX": {
+    "symbol": "EFX",
+    "companyName": "Effect.AI Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Effect.AI Token",
+        "hash": "acbc532904b6b51b5ea6d19b803d78af70e7e6f9",
+        "decimals": 8,
+        "totalSupply": 650000000
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/efx.png"
   },
   "APT": {
     "symbol": "APT",
@@ -950,5 +796,19 @@
       }
     },
     "image": ""
+  },
+  "IAM": {
+    "symbol": "IAM",
+    "companyName": "Bridge Token",
+    "type": "NEP5",
+    "networks": {
+      "1": {
+        "name": "Bridge Token",
+        "hash": "891daf0e1750a1031ebe23030828ad7781d874d6",
+        "decimals": 8,
+        "totalSupply": 708097040
+      }
+    },
+    "image": "https://tokens.neonexchange.org/assets/png/iam.png"
   }
 }
